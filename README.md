@@ -1,6 +1,7 @@
 # Hey there, I'm Aleena Anil! 👋
 
-Welcome to my corner of the internet! I'm a passionate developer, lifelong learner, and tech enthusiast. Here’s a little bit about me:
+
+Welcome to my corner of github! I'm a passionate developer, lifelong learner, and tech enthusiast. Here’s a little bit about me:
 
 <img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
 
@@ -38,7 +39,7 @@ Welcome to my corner of the internet! I'm a passionate developer, lifelong learn
 ## ⚡ Fun Facts
 - I love traveling and exploring the great outdoors.
 - Avid reader of science fiction and fantasy novels.
-- Buy me a cheesecake 🍰 anytime.. 
+- Buy me a cheesecake 🍰 anytime.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
 
