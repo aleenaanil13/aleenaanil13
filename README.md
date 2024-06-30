@@ -2,7 +2,7 @@
 
 Welcome to my corner of the internet! I'm a passionate developer, lifelong learner, and tech enthusiast. Here’s a little bit about me:
 
-<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px">
+<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
 
 - 💻 *Full-Stack Developer*: I love crafting beautiful, responsive, and functional web applications using the latest technologies.
 - 🚀 *Innovator*: Always exploring new ideas and turning them into reality.
@@ -23,6 +23,10 @@ Welcome to my corner of the internet! I'm a passionate developer, lifelong learn
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 💻 Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleenaanil13&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 Get in Touch
 - *Email*: [aleenaanil@email.com](mailto:aleenaanil@email.com)
 - *LinkedIn*: [Aleena Anil](https://www.linkedin.com/in/aleenaanil13)
@@ -34,6 +38,7 @@ Welcome to my corner of the internet! I'm a passionate developer, lifelong learn
 ## ⚡ Fun Facts
 - I love traveling and exploring the great outdoors.
 - Avid reader of science fiction and fantasy novels.
-- Buy me a cheesecake 🍰.
+- Buy me a cheesecake 🍰 anytime.. 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
+
