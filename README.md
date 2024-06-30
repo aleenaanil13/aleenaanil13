@@ -22,7 +22,7 @@ Welcome to my corner of github! I'm a passionate developer, lifelong learner, an
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Languages
 
