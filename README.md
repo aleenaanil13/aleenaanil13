@@ -7,7 +7,7 @@ Welcome to my corner of the internet! I'm a passionate developer, lifelong learn
 - 🎓 *Lifelong Learner*: Constantly expanding my knowledge in web development, AI, and other cutting-edge technologies.
 - 🌍 *Global Citizen*: Collaborating with diverse teams and contributing to open-source projects.
 
-
+<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px">
 
 ## 📈 GitHub Stats
 
