@@ -20,7 +20,7 @@ Welcome to my corner of the internet! I'm a passionate developer, lifelong learn
 ## 📫 Get in Touch
 - *Email*: [aleenaanil@email.com](mailto:aleenaanil@email.com)
 - *LinkedIn*: [Aleena Anil](https://www.linkedin.com/in/aleenaanil13)
-- *Twitter*: [@yourhandle](https://twitter.com/aleena_anil13)
+- *Twitter*: [@Aleena Anil](https://twitter.com/aleena_anil13)
 
 ## ⚡ Fun Facts
 - I love traveling and exploring the great outdoors.
