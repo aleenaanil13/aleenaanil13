@@ -28,6 +28,9 @@ Welcome to my corner of the internet! I'm a passionate developer, lifelong learn
 - *LinkedIn*: [Aleena Anil](https://www.linkedin.com/in/aleenaanil13)
 - *Twitter*: [Aleena Anil](https://twitter.com/aleena_anil13)
 
+![WorkInternetGIF](https://github.com/aleenaanil13/aleenaanil13/assets/114851771/226f8ba2-9477-4b82-b460-53b3ecf7f5f7)
+
+
 ## ⚡ Fun Facts
 - I love traveling and exploring the great outdoors.
 - Avid reader of science fiction and fantasy novels.
