@@ -1,7 +1,7 @@
 # Hey there, I'm Aleena Anil! 👋
 
 
-Welcome to my corner of github! I'm a passionate developer, lifelong learner, and tech enthusiast. Here’s a little bit about me:
+Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, and tech enthusiast. Here’s a little bit about me:
 
 <img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
 
