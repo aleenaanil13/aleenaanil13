@@ -36,10 +36,7 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 ![WorkInternetGIF](https://github.com/aleenaanil13/aleenaanil13/assets/114851771/226f8ba2-9477-4b82-b460-53b3ecf7f5f7)
 
 
-## ⚡ Fun Facts
-- I love traveling and exploring the great outdoors.
-- Avid reader of science fiction and fantasy novels.
-- Buy me a cheesecake 🍰 anytime.
+
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
 
