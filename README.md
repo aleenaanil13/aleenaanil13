@@ -3,7 +3,7 @@
 
 Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, and tech enthusiast. Here’s a little bit about me:
 
-<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
+<img align="right" src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif" width="280px" height="210px">
 
 - 💻 *Full-Stack Developer*: I love crafting beautiful, responsive, and functional web applications using the latest technologies.
 - 🚀 *Innovator*: Always exploring new ideas and turning them into reality.
@@ -14,9 +14,13 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 
 ## 📈 GitHub Stats
 
+
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenaanil13&show_icons=true&theme=radical)](https://github.com/aleenaanil13/github-readme-stats)
 
+
 ## 🔥 Streaks
+
+<img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aleenaanil13&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -25,6 +29,8 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💻 Languages
+
+<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleenaanil13&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -39,4 +45,6 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
+
+<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
 
