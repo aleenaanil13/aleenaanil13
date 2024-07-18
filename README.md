@@ -26,15 +26,18 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
     <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/WEBP/right.webp"/>
   </p>
 
-<img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
+
   
   
   <br/>
   
   ## 💻 Languages and Tools  
+
+  <img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
   
   <br/>
   <br/>
+  
   
   
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/></code>
@@ -47,7 +50,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
   <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"/></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
   
-  #
+  
   
   <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"/></code>
   <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"/></code>
