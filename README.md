@@ -10,14 +10,6 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 - 🎓 *Lifelong Learner*: Constantly expanding my knowledge in web development, AI, and other cutting-edge technologies.
 - 🌍 *Global Citizen*: Collaborating with diverse teams and contributing to open-source projects.
 
-
-
-
-
-
-
-
-
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
 
 
@@ -36,12 +28,10 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 <img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
   
-  #
-  
   
   <br/>
   
-  **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+  ## 💻 Languages and Tools  
   
   <br/>
   <br/>
@@ -119,11 +109,13 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
   <div align="center">
   
-  ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+  ### Show some ❤️ by starring some repositories!!!
   
   </div>
-
+ 
+ <div align="center">
   <img align="center" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
+ </div>
 
 
 ## 📫 Get in Touch
