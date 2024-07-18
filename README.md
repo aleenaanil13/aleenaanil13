@@ -123,7 +123,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
   
   </div>
 
-  <img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
 
 
 ## 📫 Get in Touch
