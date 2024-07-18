@@ -12,63 +12,29 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 
 
 
-## 🔥 Streaks
-
-<img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aleenaanil13&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
 
 
-## 📫 Get in Touch
-- *Email*: [aleenaanil@email.com](mailto:aleenaanil@email.com)
-- *LinkedIn*: [Aleena Anil](https://www.linkedin.com/in/aleenaanil13)
-- *Twitter*: [Aleena Anil](https://twitter.com/aleena_anil13)
-
-![WorkInternetGIF](https://github.com/aleenaanil13/aleenaanil13/assets/114851771/226f8ba2-9477-4b82-b460-53b3ecf7f5f7)
 
 
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
 
-<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
 
-
-
-
-
-
-
-
-
-<p align="center">
-    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aleenaanil13&style=flat&color=blue"/> •   
-    <a href="https://user-badge.committers.top/india_private/aleenaanil13"><img src="https://user-badge.committers.top/india_private/aleenaanil13.svg"/></a> •
-    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aleenaanil13?label=Followers&style=social"/> •
-    <img src="https://img.shields.io/github/stars/aleenaanil13?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
-    <a href="https://github.com/sponsors/aleenaanil13"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-  </p>
-  <!-- <p align="center">
-    <code>
-      <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Faleenaanil13" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-    </code>
-  </p> -->
   
-  #
-  
-  ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=aleenaanil13&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+ ## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Streaks
   
   <p align="center">
     <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/WEBP/left.webp"/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleenaanil13&theme=dark&hide_border=true"/>
     <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/WEBP/right.webp"/>
   </p>
+
+<img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
   
   #
   
@@ -156,3 +122,37 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
   ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
   
   </div>
+
+  <img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
+
+
+## 📫 Get in Touch
+- *Email*: [aleenaanil@email.com](mailto:aleenaanil@email.com)
+- *LinkedIn*: [Aleena Anil](https://www.linkedin.com/in/aleenaanil13)
+- *Twitter*: [Aleena Anil](https://twitter.com/aleena_anil13)
+
+![WorkInternetGIF](https://github.com/aleenaanil13/aleenaanil13/assets/114851771/226f8ba2-9477-4b82-b460-53b3ecf7f5f7)
+
+
+<img align="right" src="https://th.bing.com/th/id/OIG3.TWSOtq7CAzu8OEZnB3EY?w=1024&h=1024&rs=1&pid=ImgDetMain" width="280px" height="210px">
+
+
+
+
+
+
+
+
+
+<p align="center">
+    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aleenaanil13&style=flat&color=blue"/> •   
+    <a href="https://user-badge.committers.top/india_private/aleenaanil13"><img src="https://user-badge.committers.top/india_private/aleenaanil13.svg"/></a> •
+    <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aleenaanil13?label=Followers&style=social"/> •
+    <img src="https://img.shields.io/github/stars/aleenaanil13?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"/> •
+    <a href="https://github.com/sponsors/aleenaanil13"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  </p>
+  <!-- <p align="center">
+    <code>
+      <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Faleenaanil13" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    </code>
+  </p> -->
