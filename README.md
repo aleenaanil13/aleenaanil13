@@ -12,12 +12,6 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 
 
 
-## 📈 GitHub Stats
-
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenaanil13&show_icons=true&theme=radical)](https://github.com/aleenaanil13/github-readme-stats)
-
-
 ## 🔥 Streaks
 
 <img align="right" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width="280px" height="210px">
@@ -28,11 +22,8 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 💻 Languages
-
 <img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleenaanil13&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
 - *Email*: [aleenaanil@email.com](mailto:aleenaanil@email.com)
