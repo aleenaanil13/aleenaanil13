@@ -16,9 +16,11 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
   
  ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aleenaanil13&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  
 ![](https://github-trophies.vercel.app/?username=aleenaanil13&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 
 ## 🔥 Streaks
   
