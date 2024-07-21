@@ -113,13 +113,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
   </h4>  
 
   
-
-  <div align="center">
-  
-  ### Show some ❤️ by starring some repositories!!!
-  
-  </div>
- 
  <div align="center">
   <img align="center" src="https://miro.medium.com/v2/resize:fit:960/1*on4XhJpeIN07Anf-FInefA.gif" width="280px" height="210px">
  </div>
