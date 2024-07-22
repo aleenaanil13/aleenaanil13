@@ -7,7 +7,6 @@ Welcome to my corner of GitHub! I'm a passionate developer, lifelong learner, an
 
 - 💻 *Full-Stack Developer*: I love crafting beautiful, responsive, and functional web applications using the latest technologies.
 - 🚀 *Innovator*: Always exploring new ideas and turning them into reality.
-- 🎓 *Lifelong Learner*: Constantly expanding my knowledge in web development, AI, and other cutting-edge technologies.
 - 🌍 *Global Citizen*: Collaborating with diverse teams and contributing to open-source projects.
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on something amazing!
